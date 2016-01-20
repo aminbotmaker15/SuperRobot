@@ -221,7 +221,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = { 54213663,96458648,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
@@ -230,20 +230,17 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/SEEDTEAM/TeleSeed
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@Rondoozle [Developer]
-@seyedan25 [Manager]
+
+@oO_amin_DELTA_revale_Oo [Developer]
+@mohammadreza1480 [Developer]
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+@Tmbaax
+@rastinblowndi
 
 Our channels
-@teleseedch [English]
-@iranseed [persian]
+@superbot 
+
 ]],
     help_text_realm = [[
 Realm Commands:
